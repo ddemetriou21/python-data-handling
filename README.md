@@ -11,4 +11,5 @@ once obtained in a written format I also display it through graphs with pandas.
 in this folder you will find multiple excel files and the python file that will execute 
 the script and compile/clean up the data from the files into one. 
 
-(note: make sure to un-comment the section that handles the reading/cleaning/compiling of the data)
+(note: the commented section in my python file is what I ran the first time to be able
+to clean up the data into 1 file named 2015-2024_cleaned_data.)
